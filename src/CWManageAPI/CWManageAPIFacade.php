@@ -1,5 +1,5 @@
 <?php
-namespace taylormaguire\CWManageAPI;
+namespace codingfoundry\CWManageAPI;
 
 use Illuminate\Support\Facades\Facade;
 

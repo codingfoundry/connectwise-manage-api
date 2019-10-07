@@ -1,6 +1,6 @@
 <?php
 
-namespace taylormaguire\CWManageAPI;
+namespace codingfoundry\CWManageAPI;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;

@@ -14,7 +14,7 @@ This package is currently in development. Not suggested for production at this t
 Install the package through composer in your terminal.
 
 ```
-composer require taylormaguire/connectwise-manage-api
+composer require codingfoundry/connectwise-manage-api
 ```
 
 ### Setup The Environment (.env File) for Authentication

@@ -1,0 +1,30 @@
+{
+    "name": "codingfoundry/connectwise-manage-api",
+    "description": "A package to interact between Laravel and the ConnectWise Manage API",
+    "keywords": ["laravel", "presets", "laravel presets", "ui", "laravel ui"],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/psr7": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodingFoundry\\CWManageAPI\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Taylor Maguire",
+            "email": "taylor@codingfoundry.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CodingFoundry\\CWManageAPI\\CWManageAPI"
+            ]
+        }
+    }
+}

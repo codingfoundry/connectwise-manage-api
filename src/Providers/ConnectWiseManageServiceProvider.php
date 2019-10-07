@@ -1,9 +1,9 @@
 <?php
 
-namespace taylormaguire\CWManageAPI;
+namespace codingfoundry\CWManageAPI;
 
 use Illuminate\Support\ServiceProvider;
-use taylormaguire\CWManageAPI\CWManageAPI;
+use codingfoundry\CWManageAPI\CWManageAPI;
 
 class ConnectWiseManageServiceProvider extends ServiceProvider
 {

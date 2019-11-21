@@ -1,6 +1,6 @@
 <?php
 
-namespace codingfoundry\CWManageAPI;
+namespace CodingFoundry\CWManageAPI;
 
 use Illuminate\Support\ServiceProvider;
 use codingfoundry\CWManageAPI\CWManageAPI;

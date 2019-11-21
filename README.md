@@ -77,7 +77,7 @@ Accepted Query String Parameters can be found [here](https://developer.connectwi
 Here is an GET Request Example using the Facade
 
 ```php
-use taylormaguire\CWManageAPI\CWManageAPI;
+use CodingFoundry\CWManageAPI\CWManageAPI;
 
 CWManageAPI::get('company/companies', [
     'pageSize' => 30,
@@ -94,6 +94,6 @@ https://api-na.myconnectwise.net/company/companies?pageSize=30&page=1&orderBy=co
 ```
 
 #### Query String Parameters
-![Screenshot](https://github.com/taylormaguire/connectwise-manage-api/blob/master/connectwise_query_string_parameters.png)
+![Screenshot](https://github.com/codingfoundry/connectwise-manage-api/blob/master/connectwise_query_string_parameters.png)
 #### Conditionals
-![Screenshot](https://github.com/taylormaguire/connectwise-manage-api/blob/master/connectwise_conditionals.png)
+![Screenshot](https://github.com/codingfoundry/connectwise-manage-api/blob/master/connectwise_conditionals.png)

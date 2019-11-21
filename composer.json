@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "CodingFoundry\\CWManageAPI\\Providers\\ConnectWiseManageServiceProvider"
+                "CodingFoundry\\CWManageAPI\\ConnectWiseManageServiceProvider"
             ]
         }
     }

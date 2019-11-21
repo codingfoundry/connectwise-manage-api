@@ -1,5 +1,5 @@
 <?php
-namespace codingfoundry\CWManageAPI;
+namespace CodingFoundry\CWManageAPI;
 
 use Illuminate\Support\Facades\Facade;
 
